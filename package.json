@@ -1,0 +1,22 @@
+{
+  "name": "myrthkpodcast",
+  "version": "1.0.0",
+  "description": "An enchanced listening experience is added to the podcast series of my chosen podcasts of rthk.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raylexlee/myrthkpodcast.git"
+  },
+  "keywords": [
+    "podcast"
+  ],
+  "author": "Raylex Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raylexlee/myrthkpodcast/issues"
+  },
+  "homepage": "https://github.com/raylexlee/myrthkpodcast#readme"
+}
